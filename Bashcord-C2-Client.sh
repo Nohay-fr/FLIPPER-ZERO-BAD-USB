@@ -17,8 +17,8 @@
 # 8. Change BOT_USER_ID_HERE below to your bots user ID.
 
 token="MTM0MDY5NDI5NTQxMzUyNjU4OQ.GP9V3W.pNTAUZ08ZQZ1p8IFZThyxnLara_9bEEBkXLfOk" # Your bot intents should be on and 'read messages' permissions when joining your server
-chan="1340694295413526589" # On Discord app rightclick the channel > 'Copy Channel ID' (Make sure the bot can access this channel)
-bot_id="BOT_USER_ID_HERE" # Settings > Advanced > Developer mode ON -- then On Discord app rightclick the bot > 'Copy User ID' 
+chan="1342865379575205939" # On Discord app rightclick the channel > 'Copy Channel ID' (Make sure the bot can access this channel)
+bot_id="1340694295413526589" # Settings > Advanced > Developer mode ON -- then On Discord app rightclick the bot > 'Copy User ID' 
 HideWindow=1 # 1 = hide console window
 
 generate_random_letters() {
