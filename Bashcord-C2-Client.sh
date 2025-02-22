@@ -16,7 +16,7 @@
 # 7. Change CHANNEL_ID_HERE below to the channel ID of your channel.
 # 8. Change BOT_USER_ID_HERE below to your bots user ID.
 
-token="YOUR_BOT_TOKEN_HERE" # Your bot intents should be on and 'read messages' permissions when joining your server
+token="MTM0MDY5NDI5NTQxMzUyNjU4OQ.GP9V3W.pNTAUZ08ZQZ1p8IFZThyxnLara_9bEEBkXLfOk" # Your bot intents should be on and 'read messages' permissions when joining your server
 chan="1340694295413526589" # On Discord app rightclick the channel > 'Copy Channel ID' (Make sure the bot can access this channel)
 bot_id="BOT_USER_ID_HERE" # Settings > Advanced > Developer mode ON -- then On Discord app rightclick the bot > 'Copy User ID' 
 HideWindow=1 # 1 = hide console window
